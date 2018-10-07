@@ -1,0 +1,10 @@
+build
+bin
+.gradle
+gradle
+gradlew
+gradlew.bat
+target
+.idea/*
+!.idea/codeStyles/
+

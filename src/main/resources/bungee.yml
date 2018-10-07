@@ -1,0 +1,10 @@
+name: OpWatch
+main: org.smither.opwatch.bungee.Opwatch
+version: 3.0.0
+author: Smither (Callum Denison Smith)
+depend: [PurpleIRC]
+commands:
+  opwatch:
+    description: OpWatch command
+    usage: /ow <command> [args]
+    alias: ow

@@ -1,0 +1,4 @@
+name: OpWatch
+main: org.smither.opwatch.spigot.Opwatch
+version: 3.0.0
+author: Smither (Callum Denison Smith)

@@ -1,0 +1,14 @@
+PurpleBotName: "SampleBot.yml"
+PurpleChannel: "#minecraft-admin"
+RegexCheckFile: "messages.rgx"
+MaxQueueSize: 50
+WipeMsg:
+- "This sign has"
+- "been wiped by the"
+- "MC Team!"
+- ""
+databaseMethod: "update"
+databaseHost: "localhost"
+databaseName: "ow"
+databaseUser: "opwatch"
+databasePass: "passwd"
